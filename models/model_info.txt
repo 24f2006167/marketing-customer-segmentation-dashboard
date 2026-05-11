@@ -1,0 +1,24 @@
+ Model Used: K-Means Clustering
+
+Purpose:
+Customer segmentation based on:
+- Income
+- Total Spending
+- Age
+
+Features Used:
+1. Income
+2. Total_Spending
+3. Age
+
+Scaling Technique:
+StandardScaler
+
+Optimal Clusters:
+5
+
+Machine Learning Type:
+Unsupervised Learning
+
+Business Goal:
+Identify different customer groups for targeted marketing and business insights.
